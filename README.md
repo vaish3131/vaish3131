@@ -63,9 +63,9 @@ I love developing scalable web applications and continuously improving my proble
 ---
 
 ### 🤝 Connect with Me
-📫 **Email:** vaishnavis31052003@gmail.com 
-💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-s-595750341/)  
-🌐 [Portfolio / Resume](https://your-portfolio-link.com)
+- 📫 **Email:** vaishnavis31052003@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/vaishnavi-s-595750341/)  
+- 🌐 [Portfolio / Resume](https://your-portfolio-link.com)
 ---
 
 ⭐ *"Code with clarity, build with passion, and keep learning every day."*
