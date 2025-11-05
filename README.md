@@ -15,13 +15,13 @@ I love developing scalable web applications and continuously improving my proble
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java, JavaScript, HTML, CSS, SQL  
-**Frontend:** React.js, Bootstrap, Redux  
-**Backend:** Spring Boot, Hibernate, RESTful APIs  
-**Database:** MySQL, MongoDB  
-**Tools:** Git, Maven, Postman, Docker (basics)  
-**Cloud & Deployment:** AWS (basics), Render, Netlify  
-**Version Control:** Git & GitHub
+- **Languages:** Java, JavaScript, HTML, CSS, SQL  
+- **Frontend:** React.js, Bootstrap, Redux  
+- **Backend:** Spring Boot, Hibernate, RESTful APIs  
+- **Database:** MySQL, MongoDB  
+- **Tools:** Git, Maven, Postman, Docker (basics)  
+- **Cloud & Deployment:** AWS (basics), Render, Netlify  
+- **Version Control:** Git & GitHub
 ---
 
 ### 📂 Featured Projects
