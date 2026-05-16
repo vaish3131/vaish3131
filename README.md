@@ -9,17 +9,16 @@ I love developing scalable web applications and continuously improving my proble
 - 🌱 Currently learning **Microservices, Docker, and Cloud Deployment**
 - 🔭 Working on enhancing my **Java Spring Boot + React** projects
 - 👯 Open to collaborating on **open-source and real-world Java projects**
-- 💬 Ask me about **Java, Spring Boot, React, REST APIs, MySQL**
+- 💬 Ask me about **Java, GIT, MySQL**
 - ⚡ Fun fact: I debug better with music 🎧
 ---
 
 ### 🛠️ Tech Stack
 
 - **Languages:** Java, JavaScript, HTML, CSS, SQL  
-- **Frontend:** React.js, Bootstrap, Redux  
 - **Backend:** Spring Boot, Hibernate, RESTful APIs  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, Maven, Postman, Docker (basics)  
+- **Database:** MySQL
+- **Tools:** Git, Maven 
 - **Cloud & Deployment:** AWS (basics), Render, Netlify  
 - **Version Control:** Git & GitHub
 ---
